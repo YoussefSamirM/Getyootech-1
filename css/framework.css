@@ -1,0 +1,33 @@
+.p-flex {
+    display: flex;
+}
+
+.p-grid {
+    display: grid;
+}
+
+.space {
+    justify-content: space-between;
+}
+
+.p-relative {
+    position: relative;
+}
+
+.p-absolute {
+    position: absolute;
+}
+
+.active {
+    background-color: rgba(238, 238, 238, 0.8);
+    border-radius: 7px;
+}
+
+.bravo {
+    color: #2742fd;
+}
+
+.active2 {
+    background-color: transparent !important;
+    border: 1px solid #f03d3f;
+}
